@@ -1,0 +1,12 @@
+{
+  "stateFile": ".codex/exstate.json",
+  "checkpointFile": ".codex/exstate.checkpoint.json",
+  "tasksPath": "taskList",
+  "nodeKeyField": "nodeKey",
+  "statusField": "status",
+  "statusMap": {
+    "pending": "pending",
+    "inProgress": "running",
+    "completed": "done"
+  }
+}
