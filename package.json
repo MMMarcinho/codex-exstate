@@ -1,0 +1,16 @@
+{
+  "name": "codex-exstate",
+  "version": "0.1.0",
+  "description": "Project Codex Plan status into configurable external state.",
+  "type": "module",
+  "bin": {
+    "codex-exstate": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
